@@ -1,0 +1,15 @@
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\Accord.dll.config
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\SimpleCMSDBDLL.dll.config
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\SimpleCMSDBDLL.dll
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\SimpleCMSDBDLL.pdb
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\Accord.dll
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\Accord.Math.Core.dll
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\Accord.Math.dll
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\Accord.xml
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\Accord.Math.xml
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\bin\Debug\Accord.Math.Core.xml
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\obj\Debug\SimpleCMSDBDLL.csprojAssemblyReference.cache
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\obj\Debug\SimpleCMSDBDLL.csproj.CoreCompileInputs.cache
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\obj\Debug\SimpleCMSDBDLL.csproj.CopyComplete
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\obj\Debug\SimpleCMSDBDLL.dll
+C:\Users\rkfka\source\repos\SimpleCMS\SimpleCMSDBDLL\obj\Debug\SimpleCMSDBDLL.pdb

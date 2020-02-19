@@ -1,0 +1,6 @@
+﻿namespace SimpleCmsDbClassDLL
+{
+    interface ITrendCalculator
+    {
+    }
+}
